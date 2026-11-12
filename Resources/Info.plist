@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>CFBundleName</key><string>Orol</string>
+    <key>CFBundleDisplayName</key><string>Orol</string>
+    <key>CFBundleIdentifier</key><string>app.orol.island</string>
+    <key>CFBundleExecutable</key><string>Orol</string>
+    <key>CFBundlePackageType</key><string>APPL</string>
+    <key>CFBundleShortVersionString</key><string>0.1.0</string>
+    <key>CFBundleVersion</key><string>1</string>
+    <key>CFBundleIconFile</key><string>Orol</string>
+    <key>LSMinimumSystemVersion</key><string>14.0</string>
+    <key>LSUIElement</key><true/>
+    <key>NSAppTransportSecurity</key><dict><key>NSAllowsLocalNetworking</key><true/></dict>
+    <key>NSHighResolutionCapable</key><true/>
+    <key>NSMicrophoneUsageDescription</key><string>Orol savolingizni eshitish uchun mikrofondan foydalanadi. Mikrofon faqat siz gapirish tugmasini bosganingizda yoqiladi.</string>
+    <key>NSSpeechRecognitionUsageDescription</key><string>Orol aytgan gapingizni matnga aylantiradi (Apple ovozni tanish tanlanganda).</string>
+    <key>NSCalendarsFullAccessUsageDescription</key><string>Orol “bugun nima rejalarim bor?” degan savolga kalendaringizdan javob beradi. Maʼlumot kompyuterdan chiqmaydi.</string>
+    <key>NSLocationUsageDescription</key><string>Orol “Chorsuga qanday boraman?” degan savolga yoʻlni siz turgan joydan hisoblaydi. Joylashuv faqat yoʻl topish uchun xaritaga yuboriladi.</string>
+    <key>NSLocationWhenInUseUsageDescription</key><string>Orol “Chorsuga qanday boraman?” degan savolga yoʻlni siz turgan joydan hisoblaydi. Joylashuv faqat yoʻl topish uchun xaritaga yuboriladi.</string>
+    <key>NSRemindersFullAccessUsageDescription</key><string>Orol “muddatlarim” degan savolga Eslatmalar’dagi muddatli ishlaringizni koʻrsatadi. Maʼlumot kompyuterdan chiqmaydi.</string>
+    <key>NSAppleEventsUsageDescription</key><string>Orol Music va Spotify’da qoʻshiqni toʻxtatish, davom ettirish va almashtirish uchun ularni boshqaradi.</string>
+</dict>
+</plist>
